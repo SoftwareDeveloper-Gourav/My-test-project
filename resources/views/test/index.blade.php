@@ -5,7 +5,7 @@
             <div class="card shadow">
                 <div class="p-4">
                     <h5 class="text-center text-primary">
-                        Upload New Product
+                        Upload New Products
                     </h5><br>
                     <form action="" id="app" enctype="multipart/form-data">
                         <div class="row">
